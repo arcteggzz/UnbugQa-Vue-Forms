@@ -4,7 +4,7 @@
             We’ve been using Untitled to kick start every new project and can’t imagine working without it.
         </h2>
         <div class="flex flex-col items-center mt-[32px]">
-            <img v-bind:src=maggi alt="avatar" class="w-[64px] h-[64px] rounded-full" />
+            <img :src=maggi alt="avatar" class="w-[64px] h-[64px] rounded-full" />
             <h2 class="text-[18px] font-[500] text-[#101828] sm:px-[16px] leading-[24px] md:mt-[16px] text-center">Kelly Williams</h2>
             <h2 class="text-[16px] font-[400] text-[#667085] sm:px-[16px] leading-[24px] md:mt-[4px] text-center">Head of Design, Layers</h2>
         </div>
